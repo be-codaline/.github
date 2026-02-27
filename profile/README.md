@@ -8,7 +8,7 @@
 
 **Transformamos ideias em software que funciona.**
 
-Somos uma software house que projeta, desenvolve e escala produtos digitais — do primeiro commit ao deploy em produção.
+Somos uma software house que projeta, desenvolve e escala produtos digitais de ponta a ponta.
 
 <br/>
 
